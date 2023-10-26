@@ -1,0 +1,99 @@
+body {
+ 	background-color: #E2DFF5; 
+ 	text color: #002060; 
+ 	font-family: 'Merriweather', serif;
+ 	font-size: 16px;
+ }
+h1, h2, {
+    color: #13239D;
+	font-family: 'Roboto Slab', serif;
+    font-size: 26px;
+}
+
+h1 {  
+	color: #13239D;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 32px
+}
+
+p {
+	color: #7B0754;
+}
+
+a { 
+	color: #002060; 
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600
+	font-size: 16 px;
+ }
+ a hover {
+ 	color: #002060 ;
+ }
+
+h2 {
+ color: #04AC90;
+ font-family: 'Open Sans', sans-serif;
+ font-size:900 ;
+ font-weight:32 ;
+} 
+
+div{
+   background: white;
+   border: 2px ;
+   margin: 10px;
+}
+
+/*Custom design with class*/
+.container {
+	width: 700px; 
+	margin: 40px auto;
+}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 10px 10px 50px #EAE8F8;
+	border-radius: 4px; 
+	margin: 15px 0px;
+	text-align: center; 
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+.btn-blue {
+	 background-color: #002060; 
+	 color: white;
+	 padding:  12px 14px; 
+	 border-radius: 4px
+ 
+}
+.btn-blue:hover {
+	background-color: #011017;
+	color: white;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: : 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: : 10px;
+
+}
+ 
+.list-inline i {
+	font-size: 50px;
+	color: #002060 ;
+
+}
+
+.list-inline i: hover {
+	color: #002060;
+}
+#introduction p {
+	margin-bottom
+}
